@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Appf</string>
+    <string name="emailHint">მაილი</string>
+    <string name="regPageTitle">რეგისტრაცია</string>
+    <string name="pwdHint">პაროლი</string>
+    <string name="register">დარეგისტრირება</string>
+    <string name="or">ან</string>
+    <string name="loginPageTitle">სისტემაში შესვლა</string>
+    <string name="login">ავტორიზაცია</string>
+    <string name="goBack">დაბრუნება</string>
+    <string name="signIn">ავტორიზაცია</string>
+    <string name="forgotPassword">პაროლი დაგავიწყდა?</string>
+    <string name="splashScreenImage">App Logo</string>
+    <string name="appTitle">Final Work</string>
+    <string name="logOut">გამოსვლა</string>
+    <string name="AddB">დამატება</string>
+</resources>
